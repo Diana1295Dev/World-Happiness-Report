@@ -1,4 +1,4 @@
-# World-Happiness-Report
+# 🌎 World-Happiness-Report
 
 El World Happiness Report es un estudio anual que analiza qué tan felices son las personas en más de 140 países del mundo. Para hacerlo, toma en cuenta factores como el GDP per capita (PIB per cápita), el apoyo social, la esperanza de vida saludable, la libertad para tomar decisiones de vida, la generosidad y la percepción de corrupción.
 
